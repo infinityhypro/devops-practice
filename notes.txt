@@ -1,0 +1,33 @@
+1) What is DevOps?
+
+-> DevOps is a combination of Development and Operations that focuses on improving collaboration between software developers and IT teams.
+   It helps in automating the software development process, from building to deployment.
+   The main goal is to deliver software faster, more efficiently, and with fewer errors.
+   It bridges the gap between development and operations for continuous improvement and delivery
+
+2) 7 Stages of DevOps Lifecycle? 
+
+-> Plan – Identify project requirements and create a roadmap.
+
+   Code – Developers write and manage the application code.
+
+   Build – Code is compiled and converted into executable files.
+
+   Test – Automated tests are run to find and fix bugs. 
+
+   Release – The application is prepared and approved for deployment.
+
+   Deploy – Code is deployed automatically to servers or cloud.
+
+   Operate & Monitor – System performance is tracked and feedback is used to improve the next version.
+
+3) Full form of CI/CD + One Real-Life Example?
+
+-> CI/CD stands for Continuous Integration and Continuous Deployment.
+   Example: When a developer updates code on GitHub, CI/CD tools like Jenkins automatically test the code and deploy the new version of the app to users — just like how mobile apps get automatic updates after developers push new changes.
+
+4) Tools Discussed in ClassTools Discussed in Class?
+-> Git - for version control and managing the project 
+   GitHub - for controlling the access to collaborators and managing the project
+   VsCode or other IDE - for developing the project and writing the code
+   Jenkins - for automating building testing and deploying the code
